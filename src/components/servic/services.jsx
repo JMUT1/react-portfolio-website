@@ -1,6 +1,7 @@
 import React from "react";
-import "./services.css";
 
-export default function services() {
+function Services() {
   return <div>services</div>;
 }
+
+export default Services;

@@ -1,8 +1,8 @@
 import React from "react";
 import "./portafolio.css";
 
-function portafolio() {
+function Portafolio() {
   return <div>portafolio</div>;
 }
 
-export default portafolio;
+export default Portafolio;

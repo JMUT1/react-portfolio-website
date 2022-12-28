@@ -68,7 +68,7 @@ textarea {
   }
 }
 
-/* ============== MEDIA QUERYS OF TABLES ================= */
+/* ============== MEDIA QUERYS OF PHONES ================= */
 
 @media screen and (max-width: 600px) {
   .container.contact__container {

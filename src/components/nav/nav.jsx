@@ -13,9 +13,9 @@ function Nav() {
   return (
     <nav>
       <a
+        href="#"
         onClick={() => setActiveNav("#")}
         className={activeNav === "#" ? "active" : ""}
-        href="#"
       >
         <AiOutlineHome />
       </a>

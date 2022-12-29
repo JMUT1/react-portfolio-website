@@ -36,13 +36,13 @@ function Footer() {
       </ul>
 
       <div className="footer__socials">
-        <a href="">
+        <a href="https://www.facebook.com/chemaaa94/">
           <FaFacebookF />
         </a>
-        <a href="">
+        <a href="https://www.instagram.com/chematorres_/">
           <BsInstagram />
         </a>
-        <a href="">
+        <a href="https://twitter.com/">
           <FaTwitter />
         </a>
       </div>

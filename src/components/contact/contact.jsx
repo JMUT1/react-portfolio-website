@@ -50,7 +50,7 @@ function Contact() {
             <h4>Instagram</h4>
             <h5>chemaTorres_</h5>
             <a
-              href="https://www.instagram.com/"
+              href="https://www.instagram.com/chematorres_/"
               target="_blank"
               rel="noreferrer"
             >

@@ -12,7 +12,7 @@ const data = [
     id: 1,
     image: IMG1,
     title: "demo 1",
-    github: "https://github.com",
+    github: "https://github.com/JMUT1/reactive-form-angularMaterial",
     demo: "https://dribbble.com/Alien__pixels",
   },
   {
@@ -20,34 +20,34 @@ const data = [
     image: IMG2,
     title: "demo 2",
     github: "https://github.com",
-    demo: "https://dribbble.com/Alien__pixels",
+    demo: "https://github.com/JMUT1/PokeApi-Form-Reactive-Angular-",
   },
   {
     id: 3,
     image: IMG3,
     title: "demo 3",
-    github: "https://github.com",
-    demo: "https://dribbble.com/Alien__pixels",
+    github: "https://github.com/JMUT1/weather-API-workshop3",
+    demo: "https://github.com/JMUT1/weather-API-workshop3",
   },
   {
     id: 4,
     image: IMG4,
     title: "demo 4",
-    github: "https://github.com",
-    demo: "https://dribbble.com/Alien__pixels",
+    github: "https://github.com/JMUT1/employee-manager-system-ANGULAR",
+    demo: "https://github.com/JMUT1/Ricky-Morty-API",
   },
   {
     id: 5,
     image: IMG5,
     title: "demo 5",
-    github: "https://github.com",
-    demo: "https://dribbble.com/Alien__pixels",
+    github: "https://github.com/JMUT1/employee-manager-system-ANGULAR",
+    demo: "https://github.com/JMUT1/employee-manager-system-ANGULAR",
   },
   {
     id: 6,
     image: IMG6,
     title: "demo 6",
-    github: "https://github.com",
+    github: "https://github.com/JMUT1/PokeApi-Form-Reactive-Angular-",
     demo: "https://dribbble.com/Alien__pixels",
   },
 ];
@@ -67,7 +67,12 @@ function Portafolio() {
               </div>
               <h3>{title}</h3>
               <div className="portfolio__item-cta">
-                <a href={github} className="btn">
+                <a
+                  href={github}
+                  className="btn"
+                  target="_blank"
+                  rel="noreferrer"
+                >
                   Gitbub
                 </a>
                 <a

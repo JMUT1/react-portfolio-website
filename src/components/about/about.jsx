@@ -32,20 +32,21 @@ function About() {
             <article className="about__card">
               <FiUsers className="about__icon" />
               <h5>Clients</h5>
-              <small>200+ WorldWide</small>
+              <small>10+ WorldWide</small>
             </article>
 
             <article className="about__card">
               <MdOutlineFolderSpecial className="about__icon" />
               <h5>Experience</h5>
-              <small>80+ completed</small>
+              <small>15+ completed</small>
             </article>
           </div>
           <p>
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Obcaecati
-            cumque possimus eius tempora ea, voluptatem eum velit? Totam
-            aliquid, eius id consectetur quasi illo deserunt odit voluptatum
-            sed, omnis dolor.
+            Web developer interested in new opportunities in the software world.
+            Willing to learn new technologies and adjust as needed when it comes
+            to new programming languages.
+            <br /> <br />
+            Looking for a great team to be part of!
           </p>
           <a href="#contact" className="btn btn-primary">
             Let´s Talk

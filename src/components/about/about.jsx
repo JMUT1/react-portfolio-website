@@ -42,11 +42,7 @@ function About() {
             </article>
           </div>
           <p>
-            Web developer interested in new opportunities in the software world.
-            Willing to learn new technologies and adjust as needed when it comes
-            to new programming languages.
-            <br /> <br />
-            Looking for a great team to be part of!
+          I am a Front-End Developer with almost 2 years of React experience, I am a high energy person with substantial team playing skills who is looking for a team with exceptional communication skills to achieve an efficient working environment.
           </p>
           <a href="#contact" className="btn btn-primary">
             Let´s Talk

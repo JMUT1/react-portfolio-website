@@ -1,10 +1,11 @@
 import React from "react";
 import "./contact.css";
 import { MdOutlineMailOutline } from "react-icons/md";
-import { BsInstagram } from "react-icons/bs";
 import { ImWhatsapp } from "react-icons/im";
 import { useRef } from "react";
 import emailjs from "emailjs-com";
+import { BsLinkedin } from "react-icons/bs";
+
 
 function Contact() {
   const form = useRef();
@@ -46,11 +47,11 @@ function Contact() {
             <a href="mailto:josemariaurenatorres@gmail.com">Send a message</a>
           </article>
           <article className="contact__option">
-            <BsInstagram className="contact__option-icon" />
+            <BsLinkedin className="contact__option-icon" />
             <h4>Instagram</h4>
             <h5>chemaTorres_</h5>
             <a
-              href="https://www.instagram.com/chematorres_/"
+              href="https://www.linkedin.com/in/jose-maria-urena-torres/"
               target="_blank"
               rel="noreferrer"
             >
@@ -62,7 +63,7 @@ function Contact() {
             <h4>Whatsapp</h4>
             <h5>+52 8112550227</h5>
             <a
-              href="https://api.whatsapp.com/send?phone=+528112550227"
+              href="https://wa.me/+528112550227"
               target="_blank"
               rel="noreferrer"
             >

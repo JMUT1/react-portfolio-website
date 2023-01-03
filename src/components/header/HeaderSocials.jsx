@@ -8,14 +8,14 @@ function HeaderSocials() {
     <div className="header__socials">
       <a
         href="https://www.linkedin.com/in/jose-maria-urena-torres/"
-        target="_blank"
+        target="_blank" rel="noreferrer"
       >
         <BsLinkedin />
       </a>
-      <a href="https://github.com/JMUT1" target="_blank">
+      <a href="https://github.com/JMUT1" target="_blank" rel="noreferrer">
         <BsGithub />
       </a>
-      <a href="https://www.instagram.com/chematorres_/" target="_blank">
+      <a href="https://www.instagram.com/chematorres_/" target="_blank" rel="noreferrer">
         <BsInstagram />
       </a>
     </div>

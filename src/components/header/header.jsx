@@ -1,8 +1,9 @@
 import React from "react";
 import "./header.css";
 import CTA from "./CTA";
-import ME from "../../assets/assets/me.png";
+import ME from "../../assets/assets/ME_JMUT.png";
 import HeaderSocials from "./HeaderSocials";
+
 
 function Header() {
   return (
@@ -14,7 +15,7 @@ function Header() {
         <CTA />
         <HeaderSocials />
         <div className="me">
-          <img src="" alt="image pending to upload... working on it" />
+          <img src={ME} alt="image pending to upload... working on it" />
         </div>
         <a href="#contact" className="scroll__down">
           Scroll Down

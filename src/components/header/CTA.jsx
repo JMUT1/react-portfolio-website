@@ -1,5 +1,5 @@
 import React from "react";
-import CV from "../../assets/assets/Profile.pdf";
+import CV from "../../assets/assets/José_María__Ureña_Torres_-_Front-end_Developer.pdf"
 
 function CTA() {
   return (

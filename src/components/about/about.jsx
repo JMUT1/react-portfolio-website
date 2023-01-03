@@ -1,6 +1,6 @@
 import React from "react";
 import "./about.css";
-import ME from "../../assets/assets/me-about.jpg";
+import ME from "../../assets/assets/Me1.png";
 import { FaAward } from "react-icons/fa";
 import { FiUsers } from "react-icons/fi";
 import { MdOutlineFolderSpecial } from "react-icons/md";
@@ -16,7 +16,7 @@ function About() {
       <div className="container about__container">
         <div className="about__me">
           <div className="about__me-image">
-            <img src="" alt="image pending to upload... working on it" />
+            <img src={ME} alt="image pending to upload... working on it" />
           </div>
         </div>
 

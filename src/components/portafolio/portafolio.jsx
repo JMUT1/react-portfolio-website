@@ -11,15 +11,15 @@ const data = [
   {
     id: 1,
     image: IMG1,
-    title: "demo 1",
-    github: "https://github.com/JMUT1/reactive-form-angularMaterial",
-    demo: "https://dribbble.com/Alien__pixels",
+    title: "Modal popup",
+    github: "https://github.com/JMUT1/Modal--Popup",
+    demo: "https://jmut1.github.io/Modal--Popup/",
   },
   {
     id: 2,
     image: IMG2,
-    title: "demo 2",
-    github: "https://github.com",
+    title: "Gym Website (React)",
+    github: "https://github.com/JMUT1/website-gym",
     demo: "https://github.com/JMUT1/PokeApi-Form-Reactive-Angular-",
   },
   {

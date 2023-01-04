@@ -25,9 +25,9 @@ const data = [
   {
     id: 3,
     image: IMG3,
-    title: "demo 3",
-    github: "https://github.com/JMUT1/weather-API-workshop3",
-    demo: "https://github.com/JMUT1/weather-API-workshop3",
+    title: "Rick & Morty API (React)",
+    github: "https://github.com/JMUT1/rick-and-morty-react",
+    demo: "https://jmut1.github.io/rick-and-morty-react/",
   },
   {
     id: 4,

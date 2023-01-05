@@ -20,7 +20,7 @@ const data = [
     image: IMG2,
     title: "Gym Website (React)",
     github: "https://github.com/JMUT1/website-gym",
-    demo: "https://github.com/JMUT1/PokeApi-Form-Reactive-Angular-",
+    demo: "http://www.jmut.online/",
   },
   {
     id: 3,

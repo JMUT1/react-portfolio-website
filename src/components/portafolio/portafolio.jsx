@@ -32,9 +32,9 @@ const data = [
   {
     id: 4,
     image: IMG4,
-    title: "demo 4",
-    github: "https://github.com/JMUT1/employee-manager-system-ANGULAR",
-    demo: "https://github.com/JMUT1/Ricky-Morty-API",
+    title: "TODO-list (REACT)" ,
+    github: "https://github.com/JMUT1/todo-list-react/settings/pages",
+    demo: "https://jmut1.github.io/todo-list-react/",
   },
   {
     id: 5,

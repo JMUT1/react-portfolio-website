@@ -31,28 +31,28 @@ function Experience() {
               <BsPatchCheckFill className="experience__detail-icons" />
               <div>
                 <h4>JavaScript</h4>
-                <small className="text-light">Intermediate</small>
+                <small className="text-light">Skillful</small>
               </div>
             </article>
             <article className="experience__details">
               <BsPatchCheckFill className="experience__detail-icons" />
               <div>
                 <h4>React</h4>
-                <small className="text-light">Intermediate</small>
+                <small className="text-light">Skillful</small>
               </div>
             </article>
             <article className="experience__details">
               <BsPatchCheckFill className="experience__detail-icons" />
               <div>
                 <h4>Angular</h4>
-                <small className="text-light">Intermediate</small>
+                <small className="text-light">Basic</small>
               </div>
             </article>
             <article className="experience__details">
               <BsPatchCheckFill className="experience__detail-icons" />
               <div>
                 <h4>Bootstrap</h4>
-                <small className="text-light">Experienced</small>
+                <small className="text-light">Skillful</small>
               </div>
             </article>
             <article className="experience__details">
@@ -72,7 +72,7 @@ function Experience() {
               <BsPatchCheckFill className="experience__detail-icons" />
               <div>
                 <h4>Node JS</h4>
-                <small className="text-light">Experienced</small>
+                <small className="text-light">Skillful</small>
               </div>
             </article>
             <article className="experience__details">

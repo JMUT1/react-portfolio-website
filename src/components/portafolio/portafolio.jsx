@@ -39,9 +39,9 @@ const data = [
   {
     id: 5,
     image: IMG5,
-    title: "demo 5",
-    github: "https://github.com/JMUT1/employee-manager-system-ANGULAR",
-    demo: "https://github.com/JMUT1/employee-manager-system-ANGULAR",
+    title: "Weather API (React)",
+    github: "https://github.com/JMUT1/Weather-API-react",
+    demo: "https://github.com/JMUT1/Weather-API-react",
   },
   {
     id: 6,
